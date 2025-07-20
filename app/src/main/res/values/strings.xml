@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="categories">Categories</string>
+    <string name="store_name">PetShop</string>
+
+    <string name="category_dogs">Dogs</string>
+    <string name="category_cats">Cats</string>
+
+    <string name="Dog">Dog</string>
+    <string name="Cat">Cat</string>
+    <string name="Bird">Bird</string>
+    <string name="Fish">Fish</string>
+    <!--<string name="Monkey">Monkey</string>
+    -->
+
+    <string name="dog_food1_name">Ancestral Grain Adult Medium si Maxi, Miel si Afine, 12 kg</string>
+    <string name="dog_food1_description">Hrana uscata completa cu continut redus de cereale de la Farmina, pentru caini adulti de talie medie si mare. </string>
+    <string name="dog_food1_price">250.6 lei</string>"
+
+    <string name="dog_food2_name">Royal Canin Maxi Puppy, 15 kg</string>
+    <string name="dog_food2_description">Formula nutritionala Royal Canin Maxi Puppy, 15 Kg combina proteine si grasimi digerabile precum si substante nutritive care se gasesc in mod natural in laptele matern. </string>
+    <string name="dog_food2_price">400 lei</string>
+
+    <string name="dog_food3_name">Royal Canin, Mini Adult, 8 Kg</string>
+    <string name="dog_food3_description">Royal Canin, Mini Adult, 8 Kg este o hrana uscata special conceputa pentru cainii adulti (cu varsta peste 10 luni) de talie mica (cu o greutate de pana la 10 kg).</string>
+    <string name="dog_food3_price">225 lei</string>
+
+    <string name="dog_food4_name">Royal Canin Mini Puppy, 8 kg</string>
+    <string name="dog_food4_description">Hrana pentru catei si caini tineri de talie mica (1 - 10 kg) cu varsta între 2 - 10 luni, pentru crestere sanatoasa, sistem imunitar puternic si digestie usoara. Cainii de talie mica au o etapa de crestere scurta si intensa.</string>
+    <string name="dog_food4_price">250 lei</string>
+
+    <string name="dog_food5_name">N D Grain Free Adult Mini Miel, Afine si Dovleac, 2.5 kg</string>
+    <string name="dog_food5_description">N D Grain Free Adult Mini Miel, Afine si Dovleac este o hrana uscata completa fara cereale de la Farmina, pentru cainii adulti de talie mica si talie pitica. Formula nutritionala pe baza de carne delicioasa de miel este o sursa importanta de proteine, vitamine, minerale si substante nutritive. </string>
+    <string name="dog_food5_price">90 lei</string>
+
+    <string name="dog_food6_name">Royal Canin Maxi Adult, 15 Kg</string>
+    <string name="dog_food6_description">Hrana completa pentru caini adulţi de talie mare cu greutatea intre 26 si 44 kg si varsta cuprinsa intre 15 luni si 5 ani.</string>
+    <string name="dog_food6_price">350 lei</string>
+
+    <string name="dog_food7_name">Superior Care White Dog Adult Small,Mini Grain Free White Fish, 1.5 kg</string>
+    <string name="dog_food7_description">Hrana completa fara cereale pentru caini adulti de talie mica, (greutate corporala 1-10kg).</string>
+    <string name="dog_food7_price">60 lei</string>
+
+
+    <string name="cat_food1_name">Hrana uscata pentru pisici Matisse Original cu Somon si Ton, 10 Kg</string>
+    <string name="cat_food1_description">Matisse Original cu Somon si Ton este o hrana uscata apetisanta pentru pisici adulte, usor de digerat, ce asigura echilibrul nutritional al organismului.</string>
+    <string name="cat_food1_price">140 lei</string>"
+
+    <string name="cat_food2_name">Cat Chow Special Care Sterilized, 15 Kg</string>
+    <string name="cat_food2_description">Cat Chow Special Care Sterilized este o hrana uscata pentru pisici adulte sterilizate</string>
+    <string name="cat_food2_price">220 lei</string>"
+
+    <string name="cat_food3_name">Hrana uscata pentru pisici Cat Chow Adult cu Pui si Curcan, 15 Kg</string>
+    <string name="cat_food3_description">Cat Chow Adult cu Pui si Curcan este o hrana uscata completa si echilibrata de la Purina pentru pisici adulte. </string>
+    <string name="cat_food3_price">200 lei</string>
+
+    <string name="cat_food4_name">Hrana umeda pentru pisici, PURINA Pro Plan, Hydra Care, protectie renala si urinara, 10x85g</string>
+    <string name="cat_food4_description">Protectia tractului urinar, Deshidratarea, Protectia rinichilor</string>
+    <string name="cat_food4_price">68,67 lei</string>
+
+    <string name="cat_food5_name">Hrana umeda pentru pisici Gourmet Gold, Mousse Curcan, 85 g</string>
+    <string name="cat_food5_description">Hrana completa pentru pisici adulte. Ofera pisicii tale placerea unei senzatii fine si delicate. Fara coloranti artificiali, conservanti si arome adaugate </string>
+    <string name="cat_food5_price">3.99 lei</string>
+
+    <string name="cat_food6_name">Hrana uscata pentru pisici Whiskas, Vita, 14Kg</string>
+    <string name="cat_food6_description">Delicioasele noastre granule Whiskas 1+ cu Vita sunt atent preparate pentru a le oferi prietenelor voastre feline tot ceea ce au nevoie pentru a continua sa toarca. Create cu ingrediente de inala calitate preluate numai de la distribuitori de incredere, fiecare reteta delicioasa ofera balansul perfect de tors: cu un continut de vitamine si minerale pentru a le mentine fericite, sanatoase si pentru a le face sa alerge catre bol la fiecare masa.</string>
+    <string name="cat_food6_price">173.65 lei</string>
+
+
+    <string name="bird_food1_name">Hrana Padovan pentru papagali, Grandmix, 600 g</string>
+    <string name="bird_food1_description">Hrana pentru papagali mari Padovan GrandMix 600g este o alimentatie superioara, atent selectata si ambalata pentru papagali mari</string>
+    <string name="bird_food1_price">19.99 lei</string>
+
+    <string name="fish_food1_name">Hrana de gradina, pentru pesti, pentru koi crap, Mersjo, Pond Pellet MIX, 5kg, 3mm</string>
+    <string name="fish_food1_description">Cereale, subproduse vegetale (obtinute din soia modificata genetic), extracte de proteine vegetale, produse vegetale (obtinute din soia modificata genetic), peste si subproduse, minerale.</string>
+    <string name="fish_food1_price">118.99 lei</string>
+
+    <string name="rodent_food1_name">Hrana pentru iepuri Padovan Grandmix, 3 Kg</string>
+    <string name="rodent_food1_description">Padovan Grandmix pentru iepuri, furaje combinate pentru iepuri pitici. Formula completa pentru iepuri pitici adulti, cu fructe si legume si adaos de vitamine si oligoelemente.</string>
+    <string name="rodent_food1_price">38.99 lei</string>
+
+    <string name="reptile_food1_name">Hrana pentru broaste testoase EXO Gammarus 1000ml</string>
+    <string name="reptile_food1_description">Este o hrana uscata, naturala. Continutul inalt de proteine si minerale contribuie la o dezvoltare armonioasa pentru animalele de toate varstele. Pentru prevenirea bolirol cauzate de o nutritie unilaterala este indicata folosirea alternativa si a altor hrane naturale fara conservanti cum ar fi crevetii si pestele alb.</string>
+    <string name="reptile_food1_price">38.44 lei</string>
+
+    <string name="toy_food1_name">Jucarie Pisici - Sfera din Iarba matei catnip, spate Adeziv, Auriu, Sigilat in punga zip-lock</string>
+    <string name="toy_food1_description">Iarba matei numita popular Catusnica este o planta bogata in fibre cu efecte benefice cunoscute pentru pisici</string>
+    <string name="toy_food1_price">14.99 lei</string>
+
+    <string name="leash_food1_name">Lesa Automata Retractabila De 5m Pentru Caine Mic Sau Mijlociu, Max 15kg</string>
+    <string name="leash_food1_description">Lesa cu mecanism de blocare este produsul perfect pentru cainii de rasa mica cu greutatea de pana la 15 kg. Cureaua robusta si mecanismul fiabil asigura libertate la plimbari de pana la 5m. Lesa va fi cu siguranta indragita de proprietarii de caini care pretuiesc siguranta in timpul plimbarilor zilnice cu animalul lor de companie.</string>
+    <string name="leash_food1_price">18.91 lei</string>
+
+    <string name="brush_food1_name">Perie trimmer pentru caini si pisici, ASKSA, cu buton de eliminare a parului</string>
+    <string name="brush_food1_description">Aceasta perie este rezistenta la apa si lavabila, se pastreaza usor pentru a fi igienica. Manerul anti-alunecare este proiectat in forma ovala pentru o prindere confortabila si un control usor.</string>
+    <string name="brush_food1_price">24.99 lei</string>
+
+
+    <string name="category_birds">bird</string>
+    <string name="category_fish">fish</string>
+    <string name="Rodent">Rodent</string>
+    <string name="Reptile">Reptiles</string>
+    <string name="Toy">Toys</string>
+    <string name="Leash">Leash</string>
+    <string name="Brush">Brush</string>
+
+
+
+
+</resources>
